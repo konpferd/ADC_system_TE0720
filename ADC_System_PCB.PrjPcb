@@ -31,7 +31,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-IsProjectConflictPreventionWarningsEnabled=0
+IsProjectConflictPreventionWarningsEnabled=1
 ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
@@ -562,6 +562,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document31]
+DocumentPath=drawing_elements.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HTDDKAFJ
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ADC_System_PCB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
@@ -781,6 +798,30 @@ DItemRevisionGUID=
 [GeneratedDocument55]
 DocumentPath=Project Outputs for ADC_System_PCB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
+
+[Parameter1]
+Name=ProjectTitle
+Value=ADC System PCB for TE0720 SoC Module
+
+[Parameter2]
+Name=ProjectRevision
+Value=2.3
+
+[Parameter3]
+Name=ProjectDrawnBy
+Value=Patryk Konieczny
+
+[Parameter4]
+Name=ProjCompany
+Value=AGH University of Krakow
+
+[Parameter5]
+Name=ProjApprovedBy
+Value=dr inż. Mariusz Pauluk
+
+[Parameter6]
+Name=DocumentStatus
+Value=Released
 
 [Configuration1]
 Name=Sources
